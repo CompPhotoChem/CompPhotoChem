@@ -1,8 +1,12 @@
 # Computational PhotoChemistry Group
 <!-- [![Group Logo](https://compphotochem.github.io/img/compphotochem_logo.png)](https://compphotochem.github.io/)-->
 
-Welcome to the **Computational PhotoChemistry Group** GitHub repository.  
+Welcome to the **Computational PhotoChemistry Group** GitHub repository. 
 We are a research group focused on **light-induced phenomena** in molecules and materials, using the tools of **theoretical** and **digital chemistry**.
+
+[![Website FAU Erlangen-Nürnberg](https://img.shields.io/badge/Website%20FAU%20Erlangen--Nbg-blue)](https://www.chemie.nat.fau.de/person/carolin-mueller/) 
+[![Website Computer Chemistry Center](https://img.shields.io/badge/Website%20Computer--Chemistry--Center-blue)](www.chemistry.nat.fau.eu/ccc/groups/cpc-group/)
+[![Github Pages](https://img.shields.io/badge/Github--Pages-black)](https://compphotochem.github.io/)
 
 ---
 
