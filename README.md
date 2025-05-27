@@ -1,4 +1,5 @@
-[![Group Logo](https://compphotochem.github.io/img/compphotochem_logo.png)](https://compphotochem.github.io/)
+# Computational PhotoChemistry Group
+<!-- [![Group Logo](https://compphotochem.github.io/img/compphotochem_logo.png)](https://compphotochem.github.io/)-->
 
 Welcome to the **Computational PhotoChemistry Group** GitHub repository.  
 We are a research group focused on **light-induced phenomena** in molecules and materials, using the tools of **theoretical** and **digital chemistry**.
