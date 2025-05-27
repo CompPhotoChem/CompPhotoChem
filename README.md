@@ -1,5 +1,3 @@
-# Computational PhotoChemistry Group
-
 [![Group Logo](https://compphotochem.github.io/img/compphotochem_logo.png)](https://compphotochem.github.io/)
 
 Welcome to the **Computational PhotoChemistry Group** GitHub repository.  
